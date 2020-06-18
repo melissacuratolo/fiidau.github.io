@@ -1,20 +1,24 @@
-## Christian Utilities and Games
+# Christian Utilities and Games
+
+## Games
 - [Pilgrims Progress](https://github.com/fiidau/Pilgrims-Progress)
 - [Quash-the-Lies](https://github.com/fiidau/Quash-the-Lies)
 - [Salvation Maze](https://github.com/fiidau/Salvation-Maze)
 - [Doctrine Defender](https://github.com/fiidau/Doctrine-Defender)
+
+## Utilites
 - [Zefania Bible Reader](https://github.com/fiidau/Zefania-Bible-Reader)
 - [Church Projector](https://github.com/fiidau/Church-Projector)
 
-## Genetic Genealogy Tools
-### Ancient DNA
+# Genetic Genealogy Tools
+## Ancient DNA
 - [Ancient DNA Results](Ancient-DNA.md)
 
-### Bioinformatics Tools
+## Bioinformatics Tools
 - [SRA / FASTQ to BAM Kit](SRA-FASTQ-to-BAM-Kit.md)
 - [BAM Analysis Kit](BAM-Analysis-Kit.md)
 
-### Autosomal Tools
+## Autosomal Tools
 - [The Imputer](https://github.com/fiidau/The-Imputer)
 - [SNP Prophet](https://github.com/fiidau/SNP-Prophet)
 - [Segment Compatibility](https://github.com/fiidau/Segment-Compatibility)
@@ -26,27 +30,27 @@
 - [Autosomal DNA Converter](https://github.com/fiidau/Autosomal-DNA-Converter)
 - [Phasing Utility](https://github.com/fiidau/Phasing-Utility)
 
-### Calculators
+## Calculators
 - [DNA Calculator](https://github.com/fiidau/DNA-Calculator)
 - [Ancient Calculator](https://github.com/fiidau/Ancient-Calculator)
 - [Pedigree Collapse Calculator](https://github.com/fiidau/Pedigree-Collapse-Calculator)
 
-### Y-DNA Tools
+## Y-DNA Tools
 - [Y-STR Kit](https://github.com/fiidau/Y-STR_Kit)
 - [Y-Tree Creator](https://github.com/fiidau/Y-Tree-Creator)
 - [ISOGG Y-Tree AddOn for Google Chrome](https://github.com/fiidau/ISOGG-YTree-AddOn-for-Google-Chrome)
 - [23andMe To YSNPs](https://github.com/fiidau/23andMe-To-YSNPs)
 - [Y-HaploGroup Population Browser](https://github.com/fiidau/Y-HaploGroup-Population-Browser)
 
-### mt-DNA Tools
+## mt-DNA Tools
 - [mtPhyloTree Creator](https://github.com/fiidau/mtDNA-PhyloTree-Creator)
 - [My mt-DNA Tree](https://github.com/fiidau/My-mt-DNA-Tree)
 - [PhyloTreeMT AddOn for Google Chrome](https://github.com/fiidau/PhyloTreeMT-AddOn-for-Google-Chrome)
 - [FASTA to RSRS with Visualizer](https://github.com/fiidau/FASTA-to-RSRS-with-Visualizer)
 - [23andMe to FASTA](https://github.com/fiidau/23andMe-to-FASTA)
 
-### X-DNA Tools
+## X-DNA Tools
 - [X Compare](https://github.com/fiidau/X-Compare)
 
-## Mini Thesis
+# Mini Thesis
 - [Android Cache Viewer](https://github.com/fiidau/Android-Cache-Viewer)

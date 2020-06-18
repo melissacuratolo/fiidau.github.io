@@ -1,16 +1,16 @@
-# Christian
+# Christian Tools
 
-## Games
+## Christian Games
 - [Pilgrims Progress](https://github.com/fiidau/Pilgrims-Progress)
 - [Quash-the-Lies](https://github.com/fiidau/Quash-the-Lies)
 - [Salvation Maze](https://github.com/fiidau/Salvation-Maze)
 - [Doctrine Defender](https://github.com/fiidau/Doctrine-Defender)
 
-## Utilites
+## Christian Utilites
 - [Zefania Bible Reader](https://github.com/fiidau/Zefania-Bible-Reader)
 - [Church Projector](https://github.com/fiidau/Church-Projector)
 
-# Genetic Genealogy
+# Genetic Genealogy Tools
 ## Ancient DNA
 - [Ancient DNA Results](Ancient-DNA.md)
 
@@ -53,4 +53,5 @@
 - [X Compare](https://github.com/fiidau/X-Compare)
 
 # Mini Thesis
+## Android Cache Viewer
 - [Android Cache Viewer](https://github.com/fiidau/Android-Cache-Viewer)

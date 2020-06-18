@@ -1,4 +1,4 @@
-# Christian Utilities and Games
+# Christian
 
 ## Games
 - [Pilgrims Progress](https://github.com/fiidau/Pilgrims-Progress)
@@ -10,7 +10,7 @@
 - [Zefania Bible Reader](https://github.com/fiidau/Zefania-Bible-Reader)
 - [Church Projector](https://github.com/fiidau/Church-Projector)
 
-# Genetic Genealogy Tools
+# Genetic Genealogy
 ## Ancient DNA
 - [Ancient DNA Results](Ancient-DNA.md)
 

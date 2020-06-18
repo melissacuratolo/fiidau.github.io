@@ -12,7 +12,7 @@ Website for my tools and utilities
 - [Zefania Bible Reader](https://github.com/fiidau/Zefania-Bible-Reader)
 - [Church Projector](https://github.com/fiidau/Church-Projector)
 
-## Genetic Genealogy Tools
+## Genetic Genealogy
 ### Ancient DNA
 - [Ancient DNA Results](Ancient-DNA.md)
 

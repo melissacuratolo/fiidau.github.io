@@ -19,7 +19,6 @@
 - [BAM Analysis Kit](BAM-Analysis-Kit.md)
 
 ## Autosomal Tools
-- [The Imputer](https://github.com/fiidau/The-Imputer)
 - [Segment Compatibility](https://github.com/fiidau/Segment-Compatibility)
 - [Autosomal Pedigree Creator](https://github.com/fiidau/Autosomal-Pedigree-Creator)
 - [Ancient Ancestry](https://github.com/fiidau/Ancient-Ancestry)

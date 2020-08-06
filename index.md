@@ -20,7 +20,6 @@
 
 ## Autosomal Tools
 - [The Imputer](https://github.com/fiidau/The-Imputer)
-- [SNP Prophet](https://github.com/fiidau/SNP-Prophet)
 - [Segment Compatibility](https://github.com/fiidau/Segment-Compatibility)
 - [Autosomal Pedigree Creator](https://github.com/fiidau/Autosomal-Pedigree-Creator)
 - [Ancient Ancestry](https://github.com/fiidau/Ancient-Ancestry)
